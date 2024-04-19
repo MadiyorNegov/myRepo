@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Xatolik");
         System.out.println("Yana bir marta xatolik");
         System.out.println("Yana bir marta xatolik");
+        //shh
     }
 }
